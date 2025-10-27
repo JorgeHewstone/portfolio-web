@@ -1,0 +1,34 @@
+version: "3.9"
+
+services:
+  ollama:
+    build:
+      context: ./backend/ollama
+      dockerfile: Dockerfile
+    container_name: jhc-ollama
+    ports:
+      - "11434:11434"
+    environment:
+      - OLLAMA_HOST=0.0.0.0:11434
+      - OLLAMA_KEEP_ALIVE=5m
+    # Si quieres persistir modelos en disco local:
+    # volumes:
+    #   - ./models:/models
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: jhc-backend
+    depends_on:
+      - ollama
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+      - OLLAMA_URL=http://ollama:11434
+      - MODEL_NAME=qwen2.5:1.5b-instruct
+      - EMBED_MODEL=nomic-embed-text
+      - CHUNK_SIZE=900
+      - CHUNK_OVERLAP=120
+      - TOP_K=4

@@ -1,0 +1,19 @@
+Jorge Hewstone tiene experiencia en las siguientes metodologías de trabajo:
+1. Metodología AGIL:
+    se basa en el Manifiesto Ágil, que establece cuatro valores fundamentales:
+    Individuos e interacciones sobre procesos y herramientas: Se valora más la comunicación y colaboración entre las personas que los procedimientos estrictos.
+    Software funcionando sobre documentación exhaustiva: Se prioriza la entrega de un producto funcional en lugar de una documentación detallada.
+    Colaboración con el cliente sobre negociación contractual: Se fomenta una relación cercana con el cliente para entender sus necesidades y adaptarse a ellas.
+    Respuesta al cambio sobre seguir un plan: Se acepta que los requisitos pueden cambiar y se adapta el trabajo en consecuencia. 
+
+2. Modelo Cascada: La metodología en cascada, también conocida como ciclo de vida de desarrollo de sistemas (SDLC, por sus siglas en inglés),
+     es un proceso lineal en el que el trabajo se realiza de manera escalonada (similar a una cascada) y en orden secuencial.
+     Dado que la metodología de gestión de proyectos en cascada es muy detallada, 
+     es ideal para trabajar en proyectos grandes que tienen muchas partes involucradas. 
+
+3. Metodología Scrum:
+    La metodología Scrum es única por varias razones, una de las cuales es la intervención de un Scrum Master 
+    —un gerente de proyectos que dirige las reuniones diarias de Scrum, las demostraciones, 
+    los sprints y los análisis retrospectivos de sprints—. 
+    Estas reuniones tienen como objetivo conectar a todos los participantes del proyecto y 
+    garantizar que las tareas se finalicen a tiempo.

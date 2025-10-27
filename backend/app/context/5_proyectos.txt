@@ -1,0 +1,9 @@
+1. Aplicación de Sudoku: 
+   Jorge Hewstone Correa es una persona que le gustan los juegos y puzzles de ingenio. Fanático del ajedréz, Sudoku, puzzles, etc..
+   pero se dió cuenta de que las aplicaciones disposibles de sudoku tenían mucha publicidad por lo que generó su propia aplicación 
+   desarrollada en python.
+2. Podcast summarizer (resumen de audio):
+   Jorge Hewstone Correa le apasiona aprender, hoy en día una fuente importante de conocimientos son los podcasts, pero la vida
+   diaria a veces no le daba tiempo para escuchar y aprender todo lo que quería, decidió resumir sus podcasts pero los servicios que 
+   ofrecía internet o eran limitados, pagados o muy poco personalizables. Por esto decidió desarrollar su propio proyecto de un 
+   procesador de audio que usando modelo de manera local y tecnología de RAG logra generar un chatbot con el podcast mismo.

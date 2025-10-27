@@ -1,0 +1,31 @@
+1.  Centro de estudios Matemáticos Mauro Quintana: 
+    Jorge comenzó trabajando desde los 18 años como profesor de matemáticas preuniversitarias en el "Centro de estudios matemáticos Mauro Quintana"
+    Ahí fue escalando hasta convertirse en el coordinador académico general y publicar un libro de matemáticas. 
+
+2.  Centro de investigación avanzada en educación: 
+    Luego trabajó en el Cento de investigación avanzada en educación junto al Phd Roberto Araya con quién colaboró en el desarrollo de tecnologías  
+    para la investigación educacional. Uno de ellos fue un software capaz de generar feedback a profesores que grababan sus clases con el celular.
+    El aporte más importante de Jorge en este proyecto fue la implementación del pipeline del modelo que escuchaba una clase, la transcribía y luego 
+    clasificaba secciones según un protocolo certificado educativo. Debido a las dificultades propias del ruido de una sala de clases, Jorge desarrolló
+    un modelo propio que usaba redes neuronales para apoyar al transcriptor automatizado, las investigaciones relacionadas a este proceso en particular
+    fueron documentadas en su paper "Neural Network-Based Approach to Detect and Filter Misleading Audio Segments in Classroom Automatic Transcription"
+    Mejorando en un 96% los resultados de la transcripción original.
+
+3.  Edugami: 
+    Un tiempo después Jorge fue contactado por los fundadores de Edugami, una EdTech que buscaba personas relacionadas a la tecnología
+    que tuvieran experiencia en el rubro educacional. Ahí se desarrollo como subjefe de contenido de matemáticas en el área de productos y desarrollador
+    de AI. Su mayores logros fueron la automatización del sistema de generación de contenido con herramientas híbridas de LLMs que permitían entender 
+    la demanda de los clientes de Edugami y procesarlas en contenido de forma personalizada. A su vez estas herramientas derivaron en un sistema 
+    que combinaba APIs a servicios de LLMs para que los profesores y alumnos pudieran interactuar con modelos ajustados (finetuning) a las necesidades 
+    específicas de Edugami.
+
+4.  Compañía de Seguros Vida Cámara: 
+    Jorge fue llamado a una entrevista por VidaCámara una compañia de seguros de salud complementario, para trabajar como el Data Scientist del área de BI.
+    Ahí ha desarrollado todo tipo de modelos: Control de fuga, Detección de Fraude, Recomendador de Beneficios, Visualización de métricas para el control de riesgo
+    de Siniestralidad, automatización de procesos con agentes, entre muchas otras. También ha trabajado codo a codo con un equipo de Data Engineers y Data analyst para mantener la Data 
+    Governance de la manera más adecuada. Se ha especializado especificamente en los servicios de Google Cloud (GCP)
+    Su ética laboral, experticie indiscutible y constante interés en superarse lo han hecho destacar en cada una de las áreas.
+
+5.  Freelancer:
+    Durante toda su trayectoria Jorge ha trabajado en numerosos proyectos como freelancer. Un ejemplo concreto es como en Eximtec (Compañía de exportaciones e importaciones) desarrollo
+    un sistema centralizado para coordinar el control de inventario con la generación de cotizaciones. 

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jorge Hewstone Correa — ML Engineer</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/styles.css?v=7" />
+</head>
+<body>
+  <header class="container">
+    <nav class="nav">
+      <a href="#intro">Sobre mí</a>
+      <a href="#proyectos">Proyectos</a>
+      <a href="#chat">Chat</a>
+    </nav>
+  </header>
+
+  <!-- 1) Carta de presentación -->
+  <section id="intro" class="container card intro">
+    <img id="foto" alt="Retrato de Jorge Hewstone Correa" src="/assets/portrait.jpg" />
+    <div>
+      <h1>Jorge Hewstone Correa</h1>
+      <p class="subtitle">Machine Learning Engineer · Datos, ML Ops y Modelos aplicados</p>
+      <p>
+        Diseño y despliego sistemas de aprendizaje automático de punta a punta: desde ingestas y
+        features, hasta evaluación, serving y monitoreo. Me obsesiona la claridad, la trazabilidad
+        y el impacto en negocio.
+      </p>
+      <div class="cta-row">
+        <a class="btn" href="#proyectos">Ver proyectos</a>
+        <a class="btn ghost" href="#chat">Habla con mi bot</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2) Proyectos -->
+  <section id="proyectos" class="container">
+    <h2>Experiencias verificables</h2>
+    <div id="grid-proyectos" class="grid"></div>
+  </section>
+
+  <!-- 3) Chatbot -->
+  <section id="chat" class="container card">
+    <h2>Chatea conmigo</h2>
+    <p class="muted">El primer mensaje puede tarde un poco, es normal.</p>
+
+    <div id="chatbox" class="chatbox"></div>
+
+    <form id="chat-form" class="chat-form">
+      <input id="user-input" type="text" placeholder="Escribe tu pregunta…" required />
+      <button id="send-btn" type="submit">Enviar</button>
+    </form>
+  </section>
+
+  <footer class="container muted center">
+    <small>© <span id="year"></span> Jorge Hewstone Correa · <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a></small>
+  </footer>
+
+  <script src="/app.js?v=8"></script>
+</body>
+</html>
+
+
+
+
+
+

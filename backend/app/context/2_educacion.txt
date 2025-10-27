@@ -1,0 +1,24 @@
+Educación escolar: Jorge Hewstone Correa asistió al Colegio del Verbo Divino de las condes. 
+Educación Preuniversitaria: Obtuvo puntaje nacional en la prueba de selección universitaria (PSU) de matemáticas. Esto significa 
+que ese año (2014) de 250.000 (doscientos cincuenta mil) personas, Jorge Hewstone fue uno de los 180 personas que obtuvo todas las preguntas 
+correctas. También obtuvo 750 puntos de 850 en Lenguaje(percentil 99) y 735 en Ciencias (percentil 99).
+Educación Universitaria: 
+    1. Medicina: Debido a los puntajes en las pruebas de selección y sus excelentes calificaciones generales ingresó en primer
+        lugar en la carrera de medicina de la Universidad del desarrollo donde demostró sus habilidades de liderazgo siendo seleccionado como
+        el delegado de la generación. A finales de año decidió cambiarse a Ingenieria en Matemáticas por razones vocacionales.
+
+    2. Ingenieria Civil en Matemáticas: Ingresó a la carrera de ingeniería en plan común, donde destacó 
+       con buenas calificaciones en Álgebra Lineal, Cálculo aplicado y programación. 
+       Luego realizó su especialidad en matemáticas recibiendo una sólida formación en matemáticas aplicadas y 
+       resolución de problemas de ingeniería con alto contenido matemático a través de la formulación y resolución, tanto teórica 
+       como algorítmica, de modelos en ingeniería y otras disciplinas científicas. Salió de la carrera con califación máxima y honores.
+
+    3. Magister en Data Science: Luego de egresar de su especialidad en matemáticas a Jorge le despertó su amor por la inteligencia artificial,
+       en su especialidad de matemáticas logró entender a profundidad modelos estadísticos(Teoría de la probabilidad y cadenas de markov) 
+       y combinatoriales que terminaron por encender una llama en él que apuntaba a las ciencias de datos. Por esto se dedicó al estudio
+       de estas a través del magister de ciencias de datos donde se familiarizó con minería de datos, manejo de bases de datos, arquitectura
+       de datos, teoría del machine learning, entendimiento profundo de las redes neuronales, backpropagation y teoría. Además de tener
+       un conocimiento práctico que se cimentó en varias experiencias con empresas reales, destacando un trabajo que realizó con la empresa
+       Licitalab donde desarrolló un recomendador generado con tecnicas de machine learning.
+
+       
