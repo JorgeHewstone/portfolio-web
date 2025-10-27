@@ -29,6 +29,12 @@ titulo: "SudokuApp",
 img: "/assets/sudoku.jpg",
 desc: "Aplicación personal creada para jugar Sudoku sin publicidad.",
 repo: "https://github.com/JorgeHewstone/Portfolio/tree/main/SudokuApp"
+},
+{
+titulo: "Portfolio con IA",
+img: "/assets/sudoku.jpg",
+desc: "Aplicación personal creada para jugar Sudoku sin publicidad.",
+repo: "https://github.com/JorgeHewstone/Portfolio/tree/main/SudokuApp"
 }
 ];
 

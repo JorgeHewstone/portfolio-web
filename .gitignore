@@ -67,3 +67,33 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+
+# Node / tooling
+node_modules/
+dist/
+build/
+.tmp/
+.cache/
+.eslintcache
+
+# Firebase
+.firebase/
+.firebaserc.local
+firebase-debug.log
+storage-debug.log
+
+# IDE/OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env / credenciales
+.env
+.env.*
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
